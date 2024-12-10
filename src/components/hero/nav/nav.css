@@ -1,0 +1,46 @@
+nav{
+    width: 1440px;
+    height: 98px;
+    display: flex;
+    background-color: rgba(22, 58, 36, 1);
+    color: #ffff;
+    align-items: center;
+    padding-top: 21px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+    align-items: center;
+    gap: 24px;
+    padding-right: 120px;
+    margin-top: 20px;
+}
+li{
+    margin-left: 20px;  
+    
+}
+li a{
+    text-decoration: none;
+    color: #ffff;  
+    font-size: 16px;
+    line-height: 21.79px;
+
+}
+li button{
+    background-color:rgba(25, 140, 54, 1);
+    color: #ffff;   
+    width: 141px;
+    height: 52px;
+    border-radius: 160px;
+    border: none;
+}
+nav .logo{
+    padding-left: 130px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(7, 144, 7);
+}    
+

@@ -1,0 +1,39 @@
+.section{
+    width: 1440px;
+    height: 1225.81px;
+    margin-top: 262.06px;
+}
+
+.person{
+    display: flex;    
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.text{
+    margin:auto;
+    margin-left: 130px;
+    margin-right: 130px;    
+}
+
+.person2{
+    display: flex;    
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.frame{
+    width: 1180px;
+    height: 293.39px;
+    margin-left: 130px;
+    margin-right: 130px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.icon{
+    display: flex;
+    margin-left: 130px;
+    margin-right: 130px;
+    justify-content: space-between;
+}
